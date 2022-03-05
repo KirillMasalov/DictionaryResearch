@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\bin\Debug\net6.0\DictionaryResearch.exe
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\bin\Debug\net6.0\DictionaryResearch.deps.json
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\bin\Debug\net6.0\DictionaryResearch.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\bin\Debug\net6.0\DictionaryResearch.dll
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\bin\Debug\net6.0\DictionaryResearch.pdb
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.dll
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\refint\DictionaryResearch.dll
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.pdb
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\DictionaryResearch.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DictionaryResearch\DictionaryResearch\obj\Debug\net6.0\ref\DictionaryResearch.dll
